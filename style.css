@@ -1,0 +1,77 @@
+.one
+{
+width: 18%;
+float: left;margin-left: 1%;background-color: blue;color: #fff;padding: 5px;
+}
+.two
+{
+width: 18%;
+float: left;
+margin-left: 1%;
+background-color: pink;color: #fff;padding: 5px;
+}
+.three
+{
+width: 18%;
+float: left;
+margin-left: 1%;
+background-color: red;color: #fff;padding: 5px;
+}
+.four
+{
+	width: 18%;
+float: left;
+margin-left: 1%;
+background-color: green;color: #fff;padding: 5px;
+}
+.five
+{
+width: 18%;
+float: left;
+margin-left: 1%;
+background-color: orange;color: #fff;padding: 5px;
+}
+.six
+{
+width: 18%;
+float: left;
+margin-left: 1%;
+background-color: yellow;color: #fff;padding: 5px;
+}
+.seven
+{
+width: 18%;
+float: left;
+margin-left: 1%;
+background-color: grey;color: #fff;padding: 5px;margin-top: 20px;	
+}
+.eight
+{
+width: 18%;
+float: left;
+margin-left: 1%;
+background-color:yellow;color: #fff;padding: 5px;margin-top: 20px;	
+}
+
+.nine
+{
+width: 18%;
+float: left;
+margin-left: 1%;
+background-color: red;color: #fff;padding: 5px;margin-top: 20px;
+}
+.ten
+{
+width: 18%;
+float: left;
+margin-left: 1%;
+background-color: orange;color: #fff;padding: 5px;margin-top: 20px;	
+}
+.eleven
+{
+width: 100%;
+float: left;
+margin-left: 1%;
+background-color: pink;color: #fff;padding: 5px;margin-top: 20px;
+<br>	
+}
